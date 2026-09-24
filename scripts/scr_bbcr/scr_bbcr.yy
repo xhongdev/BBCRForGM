@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_bbcr",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_bbcr",
+  "parent":{
+    "name":"BBCRForGM",
+    "path":"BBCRForGM.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

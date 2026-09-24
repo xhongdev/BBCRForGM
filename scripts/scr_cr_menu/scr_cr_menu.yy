@@ -1,0 +1,1 @@
+{"$GMScript":"v1","%Name":"scr_cr_menu","isCompatibility":false,"isDnD":false,"name":"scr_cr_menu","parent":{"name":"BBCRForGM","path":"BBCRForGM.yyp"},"resourceType":"GMScript","resourceVersion":"2.0"}

@@ -1,0 +1,17 @@
+[gml_api]
+module BBCRSaveCrypto;
+
+[global, bind = typed_gml]
+function bbcr_save_crypto_version() : string;
+
+[global, bind = typed_gml]
+function bbcr_save_crypto_write(path : string, text : string) : int32;
+
+[global, bind = typed_gml]
+function bbcr_save_crypto_read(path : string) : string;
+
+[global, bind = typed_gml]
+function bbcr_save_crypto_status() : int32;
+
+[global, bind = typed_gml]
+function bbcr_save_crypto_error() : string;

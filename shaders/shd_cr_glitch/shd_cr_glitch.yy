@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"shd_cr_glitch",
+  "name":"shd_cr_glitch",
+  "parent":{
+    "name":"BBCRForGM",
+    "path":"BBCRForGM.yyp",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

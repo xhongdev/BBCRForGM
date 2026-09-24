@@ -1,0 +1,1 @@
+{"$GMScript":"v1","%Name":"scr_cr_secret_routes","isCompatibility":false,"isDnD":false,"name":"scr_cr_secret_routes","parent":{"name":"BBCRForGM","path":"BBCRForGM.yyp"},"resourceType":"GMScript","resourceVersion":"2.0"}

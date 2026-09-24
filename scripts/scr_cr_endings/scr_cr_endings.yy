@@ -1,0 +1,1 @@
+{"$GMScript":"v1","%Name":"scr_cr_endings","isCompatibility":false,"isDnD":false,"name":"scr_cr_endings","parent":{"name":"BBCRForGM","path":"BBCRForGM.yyp"},"resourceType":"GMScript","resourceVersion":"2.0"}

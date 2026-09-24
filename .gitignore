@@ -57,6 +57,13 @@ Temporary Items
 # GameMaker temporary files
 *.resource_order
 *.old
+.gmcache/
+local_settings.json
 
 # GMRT build directory
 Build
+
+# Other
+PORTING.md
+/.gmcache/
+/tools/

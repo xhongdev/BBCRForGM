@@ -1,0 +1,43 @@
+{
+  "$schema": "./extgen.schema.json",
+  "input": "./save_crypto.gmidl",
+  "root": "./",
+  "profile": "Full",
+  "gamemaker": {
+    "wrappers": {
+      "enabled": true,
+      "outputFile": "../../../scripts/scr_cr_crypto_native/scr_cr_crypto_native.gml",
+      "extensionName": "BBCRSaveCrypto",
+      "extensionFileName": "BBCRSaveCrypto.ext"
+    },
+    "runtime": {
+      "enabled": false
+    },
+    "extension": {
+      "enabled": true,
+      "mode": "patch",
+      "outputFile": "../BBCRSaveCrypto.yy",
+      "extensionName": "BBCRSaveCrypto",
+      "extensionFileName": "BBCRSaveCrypto.ext",
+      "patchFrameworks": false
+    }
+  },
+  "targets": {
+    "sourceFolder": "./native",
+    "sourceFile": "{0}_native",
+    "windows": {
+      "enabled": true,
+      "outputFolder": "../../../extensions/BBCRSaveCrypto"
+    }
+  },
+  "build": {
+    "emitCmake": true,
+    "cmake": {
+      "cppStandard": 17,
+      "cppExtensions": false,
+      "strictWarnings": true,
+      "useThirdParty": false,
+      "emitPresets": true
+    }
+  }
+}
